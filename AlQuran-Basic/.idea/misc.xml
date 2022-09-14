@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Al-Quran-App/AlQuran-Basic/app/src/main/res/drawable/ic_baseline_translate_24.xml" value="0.1" />
+        <entry key="..\:/Al-Quran-App/AlQuran-Basic/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Al-Quran-App/AlQuran-Basic/app/src/main/res/layout/activity_ayah_list.xml" value="0.2537037037037037" />
+        <entry key="..\:/Al-Quran-App/AlQuran-Basic/app/src/main/res/layout/activity_ayah_list_rv.xml" value="0.2537037037037037" />
+        <entry key="..\:/Al-Quran-App/AlQuran-Basic/app/src/main/res/layout/activity_home.xml" value="0.2537037037037037" />
+        <entry key="..\:/Al-Quran-App/AlQuran-Basic/app/src/main/res/layout/activity_main.xml" value="0.2537037037037037" />
+        <entry key="..\:/Al-Quran-App/AlQuran-Basic/app/src/main/res/layout/activity_main_rv.xml" value="0.2537037037037037" />
+        <entry key="..\:/Al-Quran-App/AlQuran-Basic/app/src/main/res/layout/activity_para_list.xml" value="0.2537037037037037" />
+        <entry key="..\:/Al-Quran-App/AlQuran-Basic/app/src/main/res/layout/activity_para_list_rv.xml" value="0.2537037037037037" />
+        <entry key="..\:/Al-Quran-App/AlQuran-Basic/app/src/main/res/layout/activity_surah_list.xml" value="0.2537037037037037" />
+        <entry key="..\:/Al-Quran-App/AlQuran-Basic/app/src/main/res/layout/activity_surah_list_rv.xml" value="0.2537037037037037" />
+        <entry key="..\:/Al-Quran-App/AlQuran-Basic/app/src/main/res/layout/activity_translation.xml" value="0.2537037037037037" />
+        <entry key="..\:/Al-Quran-App/AlQuran-Basic/app/src/main/res/layout/ayah_list_item.xml" value="0.25" />
+        <entry key="..\:/Al-Quran-App/AlQuran-Basic/app/src/main/res/layout/header.xml" value="0.2537037037037037" />
+        <entry key="..\:/Al-Quran-App/AlQuran-Basic/app/src/main/res/layout/para_list_item.xml" value="0.2537037037037037" />
+        <entry key="..\:/Al-Quran-App/AlQuran-Basic/app/src/main/res/layout/search_surah.xml" value="0.1" />
+        <entry key="..\:/Al-Quran-App/AlQuran-Basic/app/src/main/res/layout/surah_list_item.xml" value="0.2537037037037037" />
+        <entry key="..\:/Al-Quran-App/AlQuran-Basic/app/src/main/res/layout/translation_list_item.xml" value="0.11805555555555555" />
+        <entry key="..\:/Al-Quran-App/AlQuran-Basic/app/src/main/res/menu/navigation_menu.xml" value="0.2537037037037037" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

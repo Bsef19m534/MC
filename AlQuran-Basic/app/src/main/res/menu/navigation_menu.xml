@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Read">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/nav_surah" android:title="By Surah"/>
+                <item android:id="@+id/nav_para" android:title="By Para"/>
+            </group>
+        </menu>
+    </item>
+    <item android:title="Search">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/nav_search" android:title="By Surah"/>
+            </group>
+        </menu>
+    </item>
+    <item android:title="Home" android:id="@+id/nav_home"/>
+</menu>
